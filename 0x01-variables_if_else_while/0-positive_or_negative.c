@@ -1,13 +1,13 @@
-#include <stddef.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stddef.h>
 #include <stdio.h>
 
 /**
- * main - Determines if a number is positive, negative or zero.
- * 
- * Return: Always 0 (Success)
- */
+* main - determines if a number is positive, negative or zero
+*
+* Return: Always 0(Success)
+*/
 int main(void)
 {
 	int n;
