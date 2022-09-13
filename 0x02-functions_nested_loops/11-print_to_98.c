@@ -5,6 +5,7 @@
 * from n to 98.
 *
 * @n: input number.
+
 *
 * Return: no return.
 */
