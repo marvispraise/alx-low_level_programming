@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
-* main - return 98
-*
-* Return: the pointer to dest.
-*/
 int main(void)
 {
 	int n;
